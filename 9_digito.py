@@ -1,6 +1,6 @@
 import random
 
-cod = '10123'#str(random.randint(10000, 99999))
+cod = str(random.randint(10000, 99999)) #'10123'
 scod = []
 peso = [2, 3, 4, 5, 6, 7]
 
